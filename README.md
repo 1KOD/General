@@ -1,4 +1,4 @@
-**Example 1**
+**GlobalEnumerator Example 1**
 
 ```
 type
@@ -38,7 +38,7 @@ end;
 ```
 
 
-**Example 2**
+**GlobalEnumerator Example 2**
 
 ```
 type
